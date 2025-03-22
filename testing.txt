@@ -1,1 +1,13 @@
 trying to update the txt file in git hub using git tool
+
+
+i have create one branch and switch to that branch.
+
+need to edit the txt file in git and update to directly to the master branches
+
+
+
+
+
+
+
